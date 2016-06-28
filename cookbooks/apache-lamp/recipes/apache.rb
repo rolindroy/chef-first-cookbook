@@ -1,5 +1,6 @@
 #
-# Cookbook Name:: lamp-stack
+# Cookbook Name:: apache-lamp
+# Author:: Rolind Roy
 # Recipe:: apache
 #
 

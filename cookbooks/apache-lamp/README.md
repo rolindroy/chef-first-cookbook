@@ -1,32 +1,15 @@
 # apache-lamp Cookbook
 
-TODO: Enter the cookbook description here.
+Sample Cookbook for create apache Vhost
 
-e.g.
-This cookbook makes your favorite breakfast sandwich.
-
-## Requirements
-
-TODO: List your cookbook requirements. Be sure to include any requirements this cookbook has on platforms, libraries, other cookbooks, packages, operating systems, etc.
-
-e.g.
 ### Platforms
 
-- SandwichOS
+- Linux/Ubuntu 14.04
 
 ### Chef
 
 - Chef 12.0 or later
 
-### Cookbooks
-
-- `toaster` - apache-lamp needs toaster to brown your bagel.
-
-## Attributes
-
-TODO: List your cookbook attributes here.
-
-e.g.
 ### apache-lamp::default
 
 <table>
@@ -76,5 +59,5 @@ e.g.
 
 ## License and Authors
 
-Authors: TODO: List authors
+Authors: Rolind Roy  <rolind.roy@gmail.com>
 
